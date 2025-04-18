@@ -1,1 +1,1 @@
-# laptop_price_predictor
+# Laptop_Price_Predictor_app
